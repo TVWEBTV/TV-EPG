@@ -1,0 +1,43 @@
+name: Update EPG
+
+on:
+  schedule:
+    - cron: '0 4 * * *' # Käivitub iga päev kell 04:00 UTC
+  workflow_dispatch: # Lubab käivitada ka käsitsi nupust
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout oma hoidla
+        uses: actions/checkout@v4
+
+      - name: Seadista Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Tõmba EPG generaator
+        run: |
+          git clone --depth 1 https://github.com/iptv-org/epg.git temp_epg
+          cd temp_epg
+          npm install
+
+      - name: Genereeri guide.xml
+        run: |
+          cd temp_epg
+          npm run grab -- --channels=../channels.xml --output=../guide.xml --days=3
+
+      - name: Kustuta ajutised failid
+        run: rm -rf temp_epg
+
+      - name: Salvesta uus guide.xml hoidlasse
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add guide.xml
+          git commit -m "Update EPG" || exit 0
+          git push
