@@ -9,7 +9,7 @@
   <channel site="go3.ee" site_id="2004800" lang="et" xmltv_id="Go3_LiveU_1">LiveU 1</channel>
   <channel site="go3.ee" site_id="2218527" lang="et" xmltv_id="Go3_Hustler_TV">Hustler TV</channel>
   <channel site="go3.ee" site_id="2259580" lang="et" xmltv_id="Go3_FX_Life">FX Life</channel>
-  <channel site="go3.ee" site_id="2275257" lang="et" xmltv_id="Go3_Go3_Sport_Open">Go3 Sport Open</channel>
+  <channel site="go3.ee" site_id="2275257" lang="et" xmltv_id="Go3_Go3_Sport_Open" logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/live/2275257/images/20487901?dsth=512&dstw=512&srcmode=3&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1">Go3 Sport Open</channel>
   <channel site="go3.ee" site_id="2321374" lang="et" xmltv_id="Go3_Nickelodeon">Nickelodeon</channel>
   <channel site="go3.ee" site_id="3063932" lang="et" xmltv_id="Go3_Eurosport">Eurosport</channel>
   <channel site="go3.ee" site_id="3451819" lang="et" xmltv_id="Go3_Nick_Junior">Nick Junior</channel>
@@ -20,7 +20,7 @@
   <channel site="go3.ee" site_id="4117084" lang="et" xmltv_id="Go3_Betsafe-LKL">Betsafe-LKL</channel>
   <channel site="go3.ee" site_id="4117093" lang="et" xmltv_id="Go3_Betsafe-LKL_2">Betsafe-LKL 2</channel>
   <channel site="go3.ee" site_id="4117104" lang="et" xmltv_id="Go3_Betsafe-LKL_3">Betsafe-LKL 3</channel>
-  <channel site="go3.ee" site_id="4150367" lang="et" xmltv_id="Go3_Go3_Sport_3">Go3 Sport 3</channel>
+  <channel site="go3.ee" site_id="4150367" lang="et" xmltv_id="Go3_Go3_Sport_3" logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/live/4150367/images/20487913?dsth=512&dstw=512&srcmode=3&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1">Go3 Sport 3</channel>
   <channel site="go3.ee" site_id="4150566" lang="et" xmltv_id="Go3_Viasat_Kino_World">Viasat Kino World</channel>
   <channel site="go3.ee" site_id="4150939" lang="et" xmltv_id="Go3_Animal_Planet">Animal Planet</channel>
   <channel site="go3.ee" site_id="4151968" lang="et" xmltv_id="Go3_Food_Network">Food Network</channel>
@@ -32,20 +32,20 @@
   <channel site="go3.ee" site_id="4229199" lang="et" xmltv_id="Go3_Discovery">Discovery</channel>
   <channel site="go3.ee" site_id="4229697" lang="et" xmltv_id="Go3_TLC">TLC</channel>
   <channel site="go3.ee" site_id="4230724" lang="et" xmltv_id="Go3_National_Geographic">National Geographic</channel>
-  <channel site="go3.ee" site_id="4231570" lang="et" xmltv_id="Go3_Go3_Sport_2">Go3 Sport 2</channel>
-  <channel site="go3.ee" site_id="4232202" lang="et" xmltv_id="Go3_Duo_5">Duo 5</channel>
-  <channel site="go3.ee" site_id="4296024" lang="et" xmltv_id="Go3_Go3_Sport_1">Go3 Sport 1</channel>
+  <channel site="go3.ee" site_id="4231570" lang="et" xmltv_id="Go3_Go3_Sport_2" logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/live/4231570/images/20487910?dsth=512&dstw=512&srcmode=3&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1">Go3 Sport 2</channel>
+  <channel site="go3.ee" site_id="4232202" lang="et" xmltv_id="Go3_Duo_5" logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/live/4232202/images/30559117?srcx=1&srcy=1&srcw=511&srch=511&dstw=511&dsth=511&srcmode=0&quality=80&type=0">Duo 5</channel>
+  <channel site="go3.ee" site_id="4296024" lang="et" xmltv_id="Go3_Go3_Sport_1" logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/live/4296024/images/20487907?dsth=512&dstw=512&srcmode=3&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1">Go3 Sport 1</channel>
   <channel site="go3.ee" site_id="4298762" lang="et" xmltv_id="Go3_Viasat_History">Viasat History</channel>
-  <channel site="go3.ee" site_id="4298785" lang="et" xmltv_id="Go3_TV6_EE">TV6 EE</channel>
+  <channel site="go3.ee" site_id="4298785" lang="et" xmltv_id="Go3_TV6_EE" logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/live/4298785/images/19253188?dsth=512&dstw=512&srcmode=3&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1">TV6 EE</channel>
   <channel site="go3.ee" site_id="4298787" lang="et" xmltv_id="Go3_Viasat_Explore">Viasat Explore</channel>
-  <channel site="go3.ee" site_id="4298790" lang="et" xmltv_id="Go3_Duo_4">Duo 4</channel>
+  <channel site="go3.ee" site_id="4298790" lang="et" xmltv_id="Go3_Duo_4" logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/live/4298790/images/30559129?srcx=1&srcy=1&srcw=511&srch=511&dstw=511&dsth=511&srcmode=0&quality=80&type=0">Duo 4</channel>
   <channel site="go3.ee" site_id="4330579" lang="et" xmltv_id="Go3_Epic_Drama">Epic Drama</channel>
-  <channel site="go3.ee" site_id="4331784" lang="et" xmltv_id="Go3_ETV_2">ETV 2</channel>
+  <channel site="go3.ee" site_id="4331784" lang="et" xmltv_id="Go3_ETV_2" logog="https://static3.go3.tv/scale/go3/webuploads/rest/upload/live/4331784/images/20205048?dsth=128&dstw=128&srcmode=3&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1">ETV 2</channel>
   <channel site="go3.ee" site_id="4332259" lang="et" xmltv_id="Go3_Viasat_Kino_Action">Viasat Kino Action</channel>
   <channel site="go3.ee" site_id="4332278" lang="et" xmltv_id="Go3_Viasat_Kino">Viasat Kino</channel>
-  <channel site="go3.ee" site_id="4332288" lang="et" xmltv_id="Go3_Kanal_2">Kanal 2</channel>
-  <channel site="go3.ee" site_id="4430626" lang="et" xmltv_id="Go3_TV3_EE">TV3 EE</channel>
-  <channel site="go3.ee" site_id="4430631" lang="et" xmltv_id="Go3_ETV">ETV</channel>
+  <channel site="go3.ee" site_id="4332288" lang="et" xmltv_id="Go3_Kanal_2" logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/live/4332288/images/19031863?dsth=512&dstw=512&srcmode=3&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1">Kanal 2</channel>
+  <channel site="go3.ee" site_id="4430626" lang="et" xmltv_id="Go3_TV3_EE" logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/live/939624/images/7151021?dsth=512&dstw=512&srcmode=0&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1">TV3 EE</channel>
+  <channel site="go3.ee" site_id="4430631" lang="et" xmltv_id="Go3_ETV" logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/live/939636/images/9949223?dsth=512&dstw=512&srcmode=0&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1">ETV</channel>
   <channel site="go3.ee" site_id="4430633" lang="et" xmltv_id="Go3_Go3_Films">Go3 Films</channel>
   <channel site="go3.ee" site_id="4487515" lang="et" xmltv_id="Go3_Setanta_Sports_1">Setanta Sports</channel>
   <channel site="go3.ee" site_id="4500859" lang="et" xmltv_id="Go3_Setanta_Sports_2">Setanta Sports</channel>
@@ -63,7 +63,7 @@
   <channel site="go3.ee" site_id="4500921" lang="et" xmltv_id="Go3_Setanta_Sports_14">Setanta Sports</channel>
   <channel site="go3.ee" site_id="4531670" lang="et" xmltv_id="Go3_Setanta_Sports_15">Setanta Sports</channel>
   <channel site="go3.ee" site_id="4546689" lang="et" xmltv_id="Go3_Setanta_Sports_16">Setanta Sports</channel>
-  <channel site="go3.ee" site_id="4884587" lang="et" xmltv_id="Go3_Duo_6">Duo 6</channel>
+  <channel site="go3.ee" site_id="4884587" lang="et" xmltv_id="Go3_Duo_6" logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/live/4884587/images/30559109?srcx=1&srcy=1&srcw=511&srch=511&dstw=511&dsth=511&srcmode=0&quality=80&type=0">Duo 6</channel>
   <channel site="go3.ee" site_id="4884593" lang="et" xmltv_id="Go3_Kidzone_Mini">Kidzone Mini</channel>
   <channel site="go3.ee" site_id="5383369" lang="et" xmltv_id="Go3_RADA_TV">RADA TV</channel>
   <channel site="go3.ee" site_id="5455814" lang="et" xmltv_id="Go3_Betsafe-LKL_4">Betsafe-LKL 4</channel>
@@ -71,7 +71,7 @@
   <channel site="go3.ee" site_id="6290634" lang="et" xmltv_id="Go3_FX">FX</channel>
   <channel site="go3.ee" site_id="6291017" lang="et" xmltv_id="Go3_OTV">OTV</channel>
   <channel site="go3.ee" site_id="6295671" lang="et" xmltv_id="Go3_Viasat_Nature">Viasat Nature</channel>
-  <channel site="go3.ee" site_id="6296595" lang="et" xmltv_id="Go3_ETV_Pluss">ETV+</channel>
+  <channel site="go3.ee" site_id="6296595" lang="et" xmltv_id="Go3_ETV_Pluss" logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/live/6296595/images/20979339?dsth=128&dstw=128&srcmode=3&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1">ETV+</channel>
   <channel site="go3.ee" site_id="6340817" lang="et" xmltv_id="Go3_Yle_TV1">Yle TV1</channel>
   <channel site="go3.ee" site_id="6341834" lang="et" xmltv_id="Go3_1_pluss_2">1+2</channel>
   <channel site="go3.ee" site_id="6341835" lang="et" xmltv_id="Go3_TV_Extra">TV Extra</channel>
@@ -93,24 +93,24 @@
   <channel site="go3.ee" site_id="6352453" lang="et" xmltv_id="Go3_Kanal_7">Kanal 7 EE</channel>
   <channel site="go3.ee" site_id="6658307" lang="et" xmltv_id="Go3_CNN">CNN</channel>
   <channel site="go3.ee" site_id="6658737" lang="et" xmltv_id="Go3_Cartoon_Network">Cartoon Network</channel>
-  <channel site="go3.ee" site_id="6886477" lang="et" xmltv_id="Go3_Go3_Extra_1">Extra 1</channel>
-  <channel site="go3.ee" site_id="6886484" lang="et" xmltv_id="Go3_Go3_Extra_2">Extra 2</channel>
-  <channel site="go3.ee" site_id="6886487" lang="et" xmltv_id="Go3_Go3_Extra_3">Extra 3</channel>
-  <channel site="go3.ee" site_id="6886499" lang="et" xmltv_id="Go3_Go3_Extra_4">Extra 4</channel>
-  <channel site="go3.ee" site_id="6886504" lang="et" xmltv_id="Go3_Go3_Extra_5">Extra 5</channel>
-  <channel site="go3.ee" site_id="6886511" lang="et" xmltv_id="Go3_Go3_Extra_6">Extra 6</channel>
-  <channel site="go3.ee" site_id="6886512" lang="et" xmltv_id="Go3_Go3_Extra_7">Extra 7</channel>
-  <channel site="go3.ee" site_id="6886515" lang="et" xmltv_id="Go3_Go3_Extra_8">Extra 8</channel>
-  <channel site="go3.ee" site_id="7016367" lang="et" xmltv_id="Go3_Go3_Sport_4">Go3 Sport 4</channel>
-  <channel site="go3.ee" site_id="7157239" lang="et" xmltv_id="Go3_Go3_Extra_9">Extra 9</channel>
-  <channel site="go3.ee" site_id="7206315" lang="et" xmltv_id="Go3_Go3_Extra_10">Extra 10</channel>
+  <channel site="go3.ee" site_id="6886477" lang="et" xmltv_id="Go3_Go3_Extra_1" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Extra 1</channel>
+  <channel site="go3.ee" site_id="6886484" lang="et" xmltv_id="Go3_Go3_Extra_2" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Extra 2</channel>
+  <channel site="go3.ee" site_id="6886487" lang="et" xmltv_id="Go3_Go3_Extra_3" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Extra 3</channel>
+  <channel site="go3.ee" site_id="6886499" lang="et" xmltv_id="Go3_Go3_Extra_4" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Extra 4</channel>
+  <channel site="go3.ee" site_id="6886504" lang="et" xmltv_id="Go3_Go3_Extra_5" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Extra 5</channel>
+  <channel site="go3.ee" site_id="6886511" lang="et" xmltv_id="Go3_Go3_Extra_6" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Extra 6</channel>
+  <channel site="go3.ee" site_id="6886512" lang="et" xmltv_id="Go3_Go3_Extra_7" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Extra 7</channel>
+  <channel site="go3.ee" site_id="6886515" lang="et" xmltv_id="Go3_Go3_Extra_8" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Extra 8</channel>
+  <channel site="go3.ee" site_id="7016367" lang="et" xmltv_id="Go3_Go3_Sport_4" logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/live/4694012/images/20487916?dsth=512&dstw=512&srcmode=3&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1">Go3 Sport 4</channel>
+  <channel site="go3.ee" site_id="7157239" lang="et" xmltv_id="Go3_Go3_Extra_9" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Extra 9</channel>
+  <channel site="go3.ee" site_id="7206315" lang="et" xmltv_id="Go3_Go3_Extra_10" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Extra 10</channel>
   <channel site="go3.ee" site_id="7323959" lang="et" xmltv_id="Go3_Travelxp">Travelxp</channel>
   <channel site="go3.ee" site_id="7495828" lang="et" xmltv_id="Go3_Galaxy_Unpacked">Galaxy Unpacked</channel>
-  <channel site="go3.ee" site_id="7680167" lang="et" xmltv_id="Go3_Go3_Extra_11">Extra 11</channel>
-  <channel site="go3.ee" site_id="7680170" lang="et" xmltv_id="Go3_Go3_Extra_12">Extra 12</channel>
-  <channel site="go3.ee" site_id="7680172" lang="et" xmltv_id="Go3_Go3_Extra_13">Extra 13</channel>
-  <channel site="go3.ee" site_id="7680176" lang="et" xmltv_id="Go3_Go3_Extra_14">Extra 14</channel>
-  <channel site="go3.ee" site_id="7680178" lang="et" xmltv_id="Go3_Go3_Extra_15">Extra 15</channel>
+  <channel site="go3.ee" site_id="7680167" lang="et" xmltv_id="Go3_Go3_Extra_11" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Extra 11</channel>
+  <channel site="go3.ee" site_id="7680170" lang="et" xmltv_id="Go3_Go3_Extra_12" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Extra 12</channel>
+  <channel site="go3.ee" site_id="7680172" lang="et" xmltv_id="Go3_Go3_Extra_13" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Extra 13</channel>
+  <channel site="go3.ee" site_id="7680176" lang="et" xmltv_id="Go3_Go3_Extra_14" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Extra 14</channel>
+  <channel site="go3.ee" site_id="7680178" lang="et" xmltv_id="Go3_Go3_Extra_15" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Extra 15</channel>
   <channel site="go3.ee" site_id="7793242" lang="et" xmltv_id="Go3_Olybet_Poker">OlyBet Poker</channel>
   <channel site="go3.ee" site_id="7840838" lang="et" xmltv_id="Go3_Setanta_Sports-1">Setanta Sports</channel>
   <channel site="go3.ee" site_id="7840840" lang="et" xmltv_id="Go3_Setanta_Sports-2">Setanta Sports</channel>
@@ -118,35 +118,35 @@
   <channel site="go3.ee" site_id="7840860" lang="et" xmltv_id="Go3_Setanta_Sports-4">Setanta Sports</channel>
   <channel site="go3.ee" site_id="7840864" lang="et" xmltv_id="Go3_Setanta_Sports-5">Setanta Sports</channel>
   <channel site="go3.ee" site_id="7840875" lang="et" xmltv_id="Go3_Setanta_Sports-6">Setanta Sports</channel>
-  <channel site="go3.ee" site_id="8258493" lang="et" xmltv_id="Go3_Go3_1">Go3</channel>
-  <channel site="go3.ee" site_id="8258495" lang="et" xmltv_id="Go3_Go3_2">Go3</channel>
-  <channel site="go3.ee" site_id="8258497" lang="et" xmltv_id="Go3_Go3_3">Go3</channel>
+  <channel site="go3.ee" site_id="8258493" lang="et" xmltv_id="Go3_Go3_1" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Go3</channel>
+  <channel site="go3.ee" site_id="8258495" lang="et" xmltv_id="Go3_Go3_2" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Go3</channel>
+  <channel site="go3.ee" site_id="8258497" lang="et" xmltv_id="Go3_Go3_3" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Go3</channel>
   <channel site="go3.ee" site_id="8269425" lang="et" xmltv_id="Go3_Setanta_Sports2">Setanta Sports 2</channel>
-  <channel site="go3.ee" site_id="8327793" lang="et" xmltv_id="Go3_Go3_4">Go3</channel>
-  <channel site="go3.ee" site_id="8388648" lang="et" xmltv_id="Go3_Go3_5">Go3</channel>
-  <channel site="go3.ee" site_id="8388651" lang="et" xmltv_id="Go3_Go3_6">Go3</channel>
-  <channel site="go3.ee" site_id="8409468" lang="et" xmltv_id="Go3_Go3_7">Go3</channel>
-  <channel site="go3.ee" site_id="8596119" lang="et" xmltv_id="Go3_Go3_8">Go3</channel>
-  <channel site="go3.ee" site_id="8596124" lang="et" xmltv_id="Go3_Go3_9">Go3</channel>
-  <channel site="go3.ee" site_id="9098170" lang="et" xmltv_id="Go3_Go3_10">Go3</channel>
-  <channel site="go3.ee" site_id="9120097" lang="et" xmltv_id="Go3_Go3_Extra-1">Extra</channel>
-  <channel site="go3.ee" site_id="9225218" lang="et" xmltv_id="Go3_Go3_Extra-2">Extra</channel>
+  <channel site="go3.ee" site_id="8327793" lang="et" xmltv_id="Go3_Go3_4" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Go3</channel>
+  <channel site="go3.ee" site_id="8388648" lang="et" xmltv_id="Go3_Go3_5" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Go3</channel>
+  <channel site="go3.ee" site_id="8388651" lang="et" xmltv_id="Go3_Go3_6"logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Go3</channel>
+  <channel site="go3.ee" site_id="8409468" lang="et" xmltv_id="Go3_Go3_7" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Go3</channel>
+  <channel site="go3.ee" site_id="8596119" lang="et" xmltv_id="Go3_Go3_8" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Go3</channel>
+  <channel site="go3.ee" site_id="8596124" lang="et" xmltv_id="Go3_Go3_9" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Go3</channel>
+  <channel site="go3.ee" site_id="9098170" lang="et" xmltv_id="Go3_Go3_10" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Go3</channel>
+  <channel site="go3.ee" site_id="9120097" lang="et" xmltv_id="Go3_Go3_Extra-1" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Extra</channel>
+  <channel site="go3.ee" site_id="9225218" lang="et" xmltv_id="Go3_Go3_Extra-2" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Extra</channel>
   <channel site="go3.ee" site_id="9455416" lang="et" xmltv_id="Go3_TV3_Gold">TV3 Gold</channel>
-  <channel site="go3.ee" site_id="9455494" lang="et" xmltv_id="Go3_Eesti_Kanal">Eesti Kanal</channel>
-  <channel site="go3.ee" site_id="9455501" lang="et" xmltv_id="Go3_Duo_3">Duo 3</channel>
+  <channel site="go3.ee" site_id="9455494" lang="et" xmltv_id="Go3_Eesti_Kanal" logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/live/1244016/images/14306503?dsth=512&dstw=512&srcmode=3&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1">Eesti Kanal</channel>
+  <channel site="go3.ee" site_id="9455501" lang="et" xmltv_id="Go3_Duo_3" logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/live/9455501/images/30559107?srcx=1&srcy=1&srcw=511&srch=511&dstw=511&dsth=511&srcmode=0&quality=80&type=0">Duo 3</channel>
   <channel site="go3.ee" site_id="9455506" lang="et" xmltv_id="Go3_Viasat_Kino_Comedy">Viasat Kino Comedy</channel>
   <channel site="go3.ee" site_id="9455519" lang="et" xmltv_id="Go3_Kidzone_Max">Kidzone Max</channel>
-  <channel site="go3.ee" site_id="9520336" lang="et" xmltv_id="Go3_Go3_Extra-3">Extra</channel>
-  <channel site="go3.ee" site_id="9531291" lang="et" xmltv_id="Go3_Go3_Extra-4">Extra</channel>
-  <channel site="go3.ee" site_id="9649833" lang="et" xmltv_id="Go3_Go3_11">Go3</channel>
-  <channel site="go3.ee" site_id="9665716" lang="et" xmltv_id="Go3_Go3_Extra-5">Extra</channel>
-  <channel site="go3.ee" site_id="9989351" lang="et" xmltv_id="Go3_Go3_12">Go3</channel>
-  <channel site="go3.ee" site_id="10140371" lang="et" xmltv_id="Go3_Go3_13">Go3</channel>
-  <channel site="go3.ee" site_id="10267383" lang="et" xmltv_id="Go3_Go3_14">Go3</channel>
-  <channel site="go3.ee" site_id="10370187" lang="et" xmltv_id="Go3_Go3_15">Go3</channel>
+  <channel site="go3.ee" site_id="9520336" lang="et" xmltv_id="Go3_Go3_Extra-3" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Extra</channel>
+  <channel site="go3.ee" site_id="9531291" lang="et" xmltv_id="Go3_Go3_Extra-4" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Extra</channel>
+  <channel site="go3.ee" site_id="9649833" lang="et" xmltv_id="Go3_Go3_11" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Go3</channel>
+  <channel site="go3.ee" site_id="9665716" lang="et" xmltv_id="Go3_Go3_Extra-5" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Extra</channel>
+  <channel site="go3.ee" site_id="9989351" lang="et" xmltv_id="Go3_Go3_12" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Go3</channel>
+  <channel site="go3.ee" site_id="10140371" lang="et" xmltv_id="Go3_Go3_13" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Go3</channel>
+  <channel site="go3.ee" site_id="10267383" lang="et" xmltv_id="Go3_Go3_14" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Go3</channel>
+  <channel site="go3.ee" site_id="10370187" lang="et" xmltv_id="Go3_Go3_15" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Go3</channel>
   <channel site="go3.ee" site_id="10677836" lang="et" xmltv_id="Go3_MCM_Top">MCM Top</channel>
   <channel site="go3.ee" site_id="10677919" lang="et" xmltv_id="Go3_RFM_TV">RFM TV</channel>
-  <channel site="go3.ee" site_id="10907035" lang="et" xmltv_id="Go3_Go3_Extra-6">Extra</channel>
+  <channel site="go3.ee" site_id="10907035" lang="et" xmltv_id="Go3_Go3_Extra-6" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Go3_Sport.svg">Extra</channel>
   <channel site="teliatv.ee" site_id="et#1" lang="et" xmltv_id="ETV.ee@SD">ETV</channel>
   <channel site="teliatv.ee" site_id="et#2" lang="et" xmltv_id="TV3.ee@SD">TV3</channel>
   <channel site="teliatv.ee" site_id="et#3" lang="et" xmltv_id="Kanal2.ee@SD">Kanal 2</channel>
